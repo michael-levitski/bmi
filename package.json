@@ -1,0 +1,17 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "bmi calculator",
+  "main": "server",
+  "scripts": {
+    "test": "nodemon server",
+    "start": "node server"
+  },
+  "author": "Michael Levitski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
